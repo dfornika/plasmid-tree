@@ -1,0 +1,10 @@
+name: plasmid-tree
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3
+  - mafft=7.508
+  - iqtree=2.2.0.3
+  - snp-sites=2.5.1
